@@ -3,6 +3,8 @@ https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/Aditya%20CV.pdf
 https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/Durgaprasad.pdf
 https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/Hemanath%20Goud%20Kandula%20Data%20Engineer%20Resume%201%20234.pdf
 https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/kilaribalu-1.pdf
+https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/KOTESWAR.RESUME.pdf
+https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/PALLELA%20YESHWANTH1.pdf
 https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/pavan%2011.pdf
 https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/Pranay_React_FS%2012.pdf
 https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/Ramesh12.pdf
