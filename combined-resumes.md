@@ -1,0 +1,15 @@
+https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/abdul%20fardeen1.pdf
+https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/Aditya%20CV.pdf
+https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/Durgaprasad.pdf
+https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/Hemanath%20Goud%20Kandula%20Data%20Engineer%20Resume%201%20234.pdf
+https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/kilaribalu-1.pdf
+https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/pavan%2011.pdf
+https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/Pranay_React_FS%2012.pdf
+https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/Ramesh12.pdf
+https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/sai%20kumars12346.pdf
+https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/satish44.pdf
+https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/Setty-Praveen-Kumar-DevopsCV.pdf
+https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/Shashank_Resume1.pdf
+https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/Sunny%20python_.pdf
+https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/Sushmaswaraj-Goud-Mallela%20123.pdf
+https://github.com/MohansaiAnde/Tagteam/blob/main/resumes/Vamsi%20Resume-1%20(1)%20(2)34.pdf
