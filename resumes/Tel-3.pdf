@@ -1,0 +1,1088 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 10251
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+(>        []Zo        c!bjbj        *Rbbc     4444,`4X\)x\($$$$###\(\(\(\(\(\(\($*-\( ##"###\(  $$v) Tj
+T* (\)#### $ $\(##\(##S\(\($H#k\(\(\(\)0X\)s\(,\(.#\(.\(\(. \($########\(\(####X\)####\(.#########B:        Hima Nitesh Telaprolu ) Tj
+T* (DevOps Engineer\(A2\) ) Tj
+T* (Hyderabad, India  +91-7981673918  himanitesh.t@gmail.com   HYPERLINK "http://www.linkedin.com/in/himanitesh009" \\h www.linkedin.com/in/himanitesh009 ) Tj
+T* ( SHAPE  \\* MERGEFORMAT ) Tj
+T* (PROFESSIONAL SUMMARY: ) Tj
+T* (With 3.6 years of hands-on experience in IT, I specialize in Azure DevOps, implementing technology solutions while embracing AGILE/SDLC methodologies. ) Tj
+T* (Proficient in Cloud technologies, particularly Microsoft Azure PAAS with expertise in cluster management, cost optimization, and infrastructure management. ) Tj
+T* (Experience in managing Azure FinOps, with a focus on cost optimization, Tagging. ) Tj
+T* (Experienced in administration/maintenance of source control management \(SCM\) systems such as SVN, Git. ) Tj
+T* (Implemented CI/CD pipelines using tools such as Microsoft Azure DevOps \(ADO\) and Jenkins. ) Tj
+T* (Developed scripts and worked with automation tools for building, integrating and deploying software releases to multiple environments. ) Tj
+T* (Experienced in scripting languages such as Terraform, YAML for Pipelines and PowerShell scripting. ) Tj
+T* (Experience in building dashboards using Power Bi. ) Tj
+T* (Integrated code quality and code coverage tools such as SonarQube. ) Tj
+T* (Experienced in using bug-tracking systems like ServiceNow and Azure Boards. ) Tj
+T* (Good Knowledge of Docker, Grafana, Prometheus and Azure Kubernetes. ) Tj
+T* (Created a self-project resume analyzer using Python, Gen AI \(used Gemini LLM\) with Streamlit as UI. ) Tj
+T* ( ) Tj
+T* (TECHNICAL SKILLS: ) Tj
+T* ( ) Tj
+T* (Cloud Technologies Microsoft Azure PAAS Languages Python, Java Web Technologies HTML5, CSS3 IDEs Visual Studio Code, Eclipse Database MySQL Version Controls SVN, Git Integration Tools Jenkins, ADO Scripting Languages/Automation Terraform, YAML, Azure Logic Apps, PowerShell Code Quality SonarQube Containerization Applications Docker, Azure Kubernetes Operating System Windows, Linux Metrics Tools Prometheus, Grafana BI Tools Power BI, Tableau PROFESSIONAL EXPERIENCE: ) Tj
+T* (Currently working as DevOps Engineer at ValueMomentum from 3rd June 2021 to till date. ) Tj
+T* (PROJECT SUMMARY: ) Tj
+T* (ValueMomentum, Hyderabad, India ) Tj
+T* (Role: Azure Cloud Engineer ) Tj
+T* (Project Name: Company Internal Project \(Aug 2024-Till date\) Worked on: Azure Cost Management, Gen AI, Python. ) Tj
+T* (Responsibilities: ) Tj
+T* (Developed an AI-powered HRMS portal that provides updates in response to questions raised by requesters.  Built an AI based website using chatpdf to help TAG Team in resume shortlist and streamlining interview process. Website was deployed to Azure app service and Vercel. ) Tj
+T* ( ) Tj
+T* ( ) Tj
+T* (ValueMomentum, Hyderabad, India ) Tj
+T* (Role: FinOps Engineer ) Tj
+T* (Project Name: Hudson Insurance Project \(June 2024  Aug 2024\) Worked on: Azure Cost Management, Power BI. ) Tj
+T* (Responsibilities: ) Tj
+T* (Worked on Tagging Azure Resources. ) Tj
+T* (Created a Power BI dashboard for cost analysis. ) Tj
+T* (Delivered Cost Optimization reports to clients. ) Tj
+T* (Right Sizing the Azure Resources. ) Tj
+T* (Creating the Infrastructure using the Terraform Scripts with the Proper Sizing of the resources. ) Tj
+T* ( ) Tj
+T* (ValueMomentum, Hyderabad, India ) Tj
+T* (Role: DevOps Engineer ) Tj
+T* (Project Name: Royal Sundaram General Insurance Project \(Dec 2022-May 2024\) Worked on: SQL, Azure DevOps, Power BI. ) Tj
+T* (Responsibilities: ) Tj
+T* (Migrated code from On-Prem SVN to Azure Cloud, established CI pipelines, and configured AKS. ) Tj
+T* (Set up CI/CD pipelines for Microservices and integrated tools such as Maven, SonarQube, Jenkins for providing immediate feedback to DEV teams after code check-in. ) Tj
+T* (Created quality gates in SonarQube and enforced in pipelines to fail builds when conditions not met. ) Tj
+T* (Ensured and coordinated with team for 100% on time delivery using Agile Model. ) Tj
+T* (Worked on Azure Boards for Bug Tracking and Azure GIT for Version Controlling. ) Tj
+T* (Manually deployed UI and Services code to user and staging environments for smooth execution. ) Tj
+T* (Created Azure integrated Grafana dashboard and Skooner for real-time monitoring of Kubernetes cluster. ) Tj
+T* (Implemented several practices in providing cost optimization for the projects to decrease the cloud costs. ) Tj
+T* (Created the SQL Server and addressed SQL DB issues promptly and effectively to ensure resolution. ) Tj
+T* (Written a PowerShell script that seamlessly handles the tasks of schedulers for optimizing the Cost. ) Tj
+T* (I contributed to the development of a website using a Spring Boot application, specifically handling the functionality for the controller and the creation of static HTML pages. ) Tj
+T* (Written Terraform scripts for creating the infrastructure in Azure. ) Tj
+T* (Developed Power BI dashboards for products by directly connecting to the Oracle Database/SQL database and utilizing raw data. ) Tj
+T* (Automated Email processing with Azure Logic Apps to seamlessly generate Azure DevOps tickets upon email arrival. ) Tj
+T* (ValueMomentum, Hyderabad, India ) Tj
+T* (Role: DevOps Support Engineer ) Tj
+T* (Project Name: GEICO \(Sept 2021-Nov 2022\) ) Tj
+T* (Worked on: Splunk, Azure DevOps, MuleSoft Servers, Ivanti, Dynatrace, venafi. ) Tj
+T* ( ) Tj
+T* (Responsibilities: ) Tj
+T* (Proficient in Azure, Mule ESB, Remedy, ADO, Splunk, ASB Explorer, Dynatrace, and Ivanti. ) Tj
+T* (Expertise in provisioning servers and virtual machines, ensuring smooth operations. ) Tj
+T* (Skilled in supporting Windows Prod and Non-prod servers, including pre and post-patching using Ivanti tool. ) Tj
+T* (ADO involvement: Created pipelines, tickets and participated in Sprint planning/Retrospective. ) Tj
+T* (Splunk usage: Monitored and analyzed Windows server logs, created and updated alerts. ) Tj
+T* (ASB Explorer tasks: Changed TTL, deleted subscriptions, re-publishing and cleared backlog messages. ) Tj
+T* (Dynatrace monitoring: Ensured visibility across hosts, VMs, and Prod/Non-Prod Servers. ) Tj
+T* (PowerShell scripting: Managed Azure Resources efficiently. ) Tj
+T* (Interacted with clients to resolve project-related issues effectively. ) Tj
+T* (Prepared and presented bi-weekly meetings with clients for project transparency. ) Tj
+T* ( ) Tj
+T* (EDUCATION: ) Tj
+T* (Koneru Lakshmaiah University, Guntur \(July 2017  April 2021\) ) Tj
+T* (Bachelor of Technology, Computer Science and Engineering; CGPA: 7.78/10. ) Tj
+T* (Matrix IIT academy, Guntur \(June 2015  March 2017\) ) Tj
+T* (Board of Intermediate AP; Percentage: 89.8 ) Tj
+T* (Narayana Group of Schools, Guntur \(June 2014  March 2015\) State Board of secondary Education AP; CGPA: 8.7/10. ) Tj
+T* (CERTIFICATIONS: ) Tj
+T* (Microsoft Certified Data Fundamentals \(DP900\)  2023 ) Tj
+T* (Microsoft Certified Azure Fundamentals \(AZ900\)  2022 ) Tj
+T* (Mulesoft Certified Developer Level-1  2021 ) Tj
+T* (RPA Certified Essentials & Advanced  2020 ) Tj
+T* (ServiceNow Certified System Administrator  2020 ) Tj
+T* (Oracle Certified Associate in SQL  2019 ) Tj
+T* ( ) Tj
+T* ( ) Tj
+T* (Place: Hyderabad ) Tj
+T* (\(Telaprolu Hima Nitesh\) ) Tj
+T* (+,Pfij9        E                                        0) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 785.1970866141732586 Td
+(1) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 756.8506299212598378 Td
+(H) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 728.5041732283464171 Td
+(T) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 700.15771653543311 Td
+(f) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 445.0396062992125508 Td
+(CEF        %12ITZb        hS5) Tj
+T* (hS5CJhS5B*CJph0jh"e?UmHnHuh"e?jh"e?UjhSUhS>*B*phwhhS) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 416.69314960629913 Td
+(hSCJhQ) Tj
+T* (hS5CJ\)hS5B*CJ\)ph0<,        1) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 331.6537795275589815 Td
+(F2e) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 303.3073228346455608 Td
+(&Fd`        ) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 274.9608661417322537 Td
+(&F`) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 246.614409448818833 Td
+(&F'`) Tj
+T* ($dN^a$$ld^l`a$$d^`a$$d]^`a$$d]^`a$bde) Tj
+T* (8) Tj
+T* (:) Tj
+T* (;) Tj
+T* (h) Tj
+T* (v) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* ("#?AJKQSdenp46GHWYgh|~h"e?hS5) Tj
+T* (hS5CJ) Tj
+T* (hS5CJhS5B*CJph0        hS5hQhSR;) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* ("$d$If^`a$gd"e?l"$d$If^`a$gd"e?l) Tj
+T* ($d^a$$d^`a$) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 218.2679527559054122 Td
+(&Fd`        ) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 189.9214960629919915 Td
+(&F`) Tj
+T* () Tj
+T* () Tj
+T* () Tj
+T* (qN"$d$If^`a$gd"e?l"$d$If^`a$gd"e?ljkd$$Ify0~\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 161.5750393700786844 Td
+(t\(64"444sapyt"e?) Tj
+T* () Tj
+T* (qN"$d$If^`a$gd"e?l"$d$If^`a$gd"e?ljkd\)$$Ify0~\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 133.2285826771652637 Td
+(t\(64"444sapyt"e?#@qN"$d$If^`a$gd"e?l"$d$If^`a$gd"e?ljkd$$Ify0~\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 104.882125984251843 Td
+(t\(64"444sapyt"e?@AKRqN"$d$If^`a$gd"e?l"$d$If^`a$gd"e?ljkd[$$Ify0~\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 76.5356692913385359 Td
+(t\(64"444sapyt"e?RSeoqN"$d$If^`a$gd"e?l"$d$If^`a$gd"e?ljkd$$Ify0~\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 48.1892125984251152 Td
+(t\(64"444sapyt"e?opqN"$d$If^`a$gd"e?l"$d$If^`a$gd"e?ljkd$$Ify0~\)) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 3824
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+(t\(64"444sapyt"e?qN"$d$If^`a$gd"e?l"$d$If^`a$gd"e?ljkd&$$Ify0~\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 785.1970866141732586 Td
+(t\(64"444sapyt"e?qN"$d$If^`a$gd"e?l"$d$If^`a$gd"e?ljkd$$Ify0~\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 756.8506299212598378 Td
+(t\(64"444sapyt"e?5qN"$d$If^`a$gd"e?l"$d$If^`a$gd"e?ljkdX$$Ify0~\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 728.5041732283464171 Td
+(t\(64"444sapyt"e?56HXqN"$d$If^`a$gd"e?l"$d$If^`a$gd"e?ljkd$$Ify0~\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 700.15771653543311 Td
+(t\(64"444sapyt"e?XYh}qN"$d$If^`a$gd"e?l"$d$If^`a$gd"e?ljkd$$Ify0~\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 671.8112598425196893 Td
+(t\(64"444sapyt"e?}~qN"$d$If^`a$gd"e?l"$d$If^`a$gd"e?ljkd#$$Ify0~\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 643.4648031496062686 Td
+(t\(64"444sapyt"e? A]{m_YM_dm]d^^) Tj
+T* ($d^a$) Tj
+T* ($d^a$) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 615.1183464566928478 Td
+(&F`) Tj
+T* ($dN^a$jkd$$Ify0~\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 586.7718897637794271 Td
+(t\(64"444sapyt"e?) Tj
+T* ( @AG\\]kHIJ-.<lw12TU<Gdewxyz/0hSOJPJQJ^JhSOJPJQJ^J        hS5) Tj
+T* (hS5CJhS5B*CJph0hQ) Tj
+T* (hSCJH*hSL.2Ue        n]        ^$d1^`a$) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 558.42543307086612 Td
+(n]) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 530.0789763779526993 Td
+(^^) Tj
+T* ($d^a$$d^`a$$d0^`a$        ) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 501.7325196850393354 Td
+(&F`exz0G|.sd$d^`a$^) Tj
+T* ($d^a$) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 473.3860629921259147 Td
+(&F`) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 445.0396062992125508 Td
+(&F1`        ) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 416.69314960629913 Td
+(&F`) Tj
+T* ($dL^a$FG{|-.rscd12MNijEF./Jcd|~     G H ~              !        hS6) Tj
+T* (hS5CJhS5B*CJph0        hS5hQhSV2NjF/d) Tj
+T* ($d^a$) Tj
+T* ($d^a$) Tj
+T* ($dN^a$$d^`a$        ) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 388.3466929133857661 Td
+(&F`) Tj
+T* ($dL^a$  H    ) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 360.0002362204724022 Td
+(!4!6!8!J!c!^$d^`a$        ) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 331.6537795275589815 Td
+(&F`) Tj
+T* ($dN^a$$d]^a$        !) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 303.3073228346455608 Td
+(!3!4!5!6!7!8!?!I!J!b!c!        hS5hShQ\(/ =!X"#$%Dd'D) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 246.614409448818833 Td
+(3@@"?$$If!vh#v#v:Vy) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 218.2679527559054122 Td
+(t\(655/4"44sapyt"e?$$If!vh#v#v:Vy) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 189.9214960629919915 Td
+(t\(655/4"44sapyt"e?$$If!vh#v#v:Vy) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 161.5750393700786844 Td
+(t\(655/4"44sapyt"e?$$If!vh#v#v:Vy) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 133.2285826771652637 Td
+(t\(655/4"44sapyt"e?$$If!vh#v#v:Vy) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 104.882125984251843 Td
+(t\(655/4"44sapyt"e?$$If!vh#v#v:Vy) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 76.5356692913385359 Td
+(t\(655/4"44sapyt"e?$$If!vh#v#v:Vy) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 48.1892125984251152 Td
+(t\(655/4"44sapyt"e?$$If!vh#v#v:Vy) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 6341
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+(t\(655/4"44sapyt"e?$$If!vh#v#v:Vy) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 785.1970866141732586 Td
+(t\(655/4"44sapyt"e?$$If!vh#v#v:Vy) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 756.8506299212598378 Td
+(t\(655/4"44sapyt"e?$$If!vh#v#v:Vy) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 728.5041732283464171 Td
+(t\(655/4"44sapyt"e?$$If!vh#v#v:Vy) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 700.15771653543311 Td
+(t\(655/4"44sapyt"e?$$If!vh#v#v:Vy) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 671.8112598425196893 Td
+(t\(655/4"44sapyt"e?s666666666vvvvvvvvv666666>6666666666666666666666666666666666666666666666666hH66666666666666666666666666666666666666666666666666666666666666666p62&6FVfv2\(&6FVfv&6FVfv&6FVfv&6FVfv&6FVfv&6FVfv8XV~ 0@ 0@ 0@ 0@ 0@ 0@ 0@ 0@ 0@ 0@ 0@ 0@ 0@ 0@OJQJ_HmH        nH        sH        tH        r`rNormal"$d^`a$\)B*CJPJ^J_HaJmH        phsH        tH        DA D) Tj
+T* (Default Paragraph FontRi@R) Tj
+T* (0Table Normal4) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 643.4648031496062686 Td
+(l4a\(k \() Tj
+T* (0No ListLoL        TableGrid:VCJ_HaJmH        sH        tH        PK![Content_Types].xmlN0EH-J@%|$ULTB l,3;rJB+$G]7OV<a\(7IR{pgL=r85v&uQ8CX=$?6NJCFB.'.+YT^e55 _g -;Yl|6^N`?[PK!6_rels/.relsj0}Q%v/C/}\(h"O) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 615.1183464566928478 Td
+(= C?hv=%[xp{_P<1H0ORBdJE4b$q_6LR7`0O,En7Lib/SePK!kytheme/theme/themeManager.xmlM) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 586.7718897637794271 Td
+( @}w7c\(EbCA7K) Tj
+T* (Y,) Tj
+T* (e.|,H,lxIsQ}# +!,^$j=GW\)E+&) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 558.42543307086612 Td
+(8PK!@theme/theme/theme1.xmlY[F~/?;I,[6I<ck#wcB$O}\)Rh/1GHgqB) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 530.0789763779526993 Td
+(d) Tj
+T* (4o9HzQD#p[Rr{o/4\\e1nk~rG) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 501.7325196850393354 Td
+(1\)f8kDHi2-t~#ZJbH:13.Xp90@<shyx        rK-^--]_evL{v_ZS4JS.OtCn[-xus?@oE@\){^x^R|m_/^+PHI|.j\\m0z) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 473.3860629921259147 Td
+(o^^PP) Tj
+T* (yu\)&,j-BYR$HO8@$#) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 445.0396062992125508 Td
+(obaT\)KU/:RA;i0CG        9xu5'O_<fs+W) Tj
+T* (Ou?}/o\\7.U\(N{!0wnc.` 0DDhSb$g@Z ,6x?a2f}h%\(sia}d"td;@|Kl.4P411!F\\\(aM8D!VF7HyYBw:VG&) Tj
+T* (D-aE6CQ={H6E2q=. SLcm6X 3Ed"Am>c:E3v@P~Ds        |w<<xkll5) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 416.69314960629913 Td
+(SZ2O,Q 5y;y=eEG|\\P        M7$|n]]4`U6G\(^_W-v]m{        t q}}vri0 D3]d3Sx:8}d-i*xqCZ}WlqyI@^6Ij!Q_ sZ{ahHTmjyV`f<U!2OiU|L`UvL$r3IC4Yuhd\(|PZ+X\\6`) Tj
+T* (4qU}\(        <a4rDQYE0) Tj
+T* (T) Tj
+T* (""pP\\<) Tj
+T* (4V+ ,&Fn&O&x$k#2\)\(|`iA8>v<zYpL8*xS&;EUC8eE<hg!ZHFx0) Tj
+T* (VMru6Ds3) Tj
+T* (U]b65y2izO{]rK[']u4jjKF\\$4--`R&}`A<"xNW        ) Tj
+T* (@IR[n) Tj
+T* (8r        iK~*~P\(5^zBoWm{~T@caT.}x) Tj
+T* (E5&Zi2bQ/,EE\\}\)WqZ6;BnQhN[~79R`]) Tj
+T* (ZQJ~Y{J=$SbUvPK!) Tj
+T* ('theme/theme/_rels/themeManager.xml.relsM) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 388.3466929133857661 Td
+(0woo&5) Tj
+T* (6?$Q) Tj
+T* (,.aic21h:qm@RN;d`o7gK\(M&$R\(.1r'JT8V"AHu}|$b{P8g/]QAs\(#L[PK-![Content_Types].xmlPK-!60_rels/.relsPK-!kytheme/theme/themeManager.xmlPK-!@theme/theme/theme1.xmlPK-!) Tj
+T* ('        theme/theme/_rels/themeManager.xml.relsPK]) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 360.0002362204724022 Td
+(<?xml version="1.0" encoding="UTF-8" standalone="yes"?>) Tj
+T* () Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 331.6537795275589815 Td
+(<a:clrMap xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" bg1="lt1" tx1="dk1" bg2="lt2" tx2="dk2" accent1="accent1" accent2="accent2" accent3="accent3" accent4="accent4" accent5="accent5" accent6="accent6" hlink="hlink" folHlink="folHlink"/>cRb        !c!"%\() Tj
+T* () Tj
+T* (@Ro5X}ec! !#$&'icXt_8@-) Tj
+T* (\(        ) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 303.3073228346455608 Td
+(g        b5%) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 274.9608661417322537 Td
+(S4@@"Group 8837"?PK!8[Content_Types].xmlAN0EH%N@%K@`dOdlyLhoDX3'AL:*/@X*eRp208J\)G,R}Q\)=Hi0BL\):TWQDY;d]6O&8*        VCLj"        yJ.;[wIC_        :{IOA) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 246.614409448818833 Td
+(!>4        p;f3Vc.n\(&poPK!8!_rels/.relsj0}qN/kc[F232zQLZ%R6zPT]\() Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 218.2679527559054122 Td
+([j,ZfLV:*f"N.]m@=7LuP[i?T;GI4Ew=}3b9`5YCk9#o~e?zrPK!<Ddrs/e2oDoc.xmlTn0`B!"P\\V}q~$lCw<!RVHa<3o>\(Fgn4LjaZcsPFOMTF1}W!4Id~dh,k IJ&,i3Bzug+_R?Ee`*X[6~jq*nZc!?jj7E        $\(j!n|^-B{acu3) Tj
+T* () Tj
+T* (N3 @-S8f_IQvpMn=C`' N|$_]KIl\(H!FJoXI        Y,O=t2D?H4/5%zIt/:d|XaY{O5f/) Tj
+T* (YlUKa@!Y-OF9m^j;cA&wB  q,TFGOUvr>"07|X:?2u1%A|gH<T\)i]py&[PK!{!pdrs/downrev.xmlLAk@e) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 189.9214960629919915 Td
+(X-%FDDJocvL]]) Tj
+T* (oxl1Fd@\\j}<`4"05n/1}TJ_TdO\\K,v416rXslUEq{>{>V|NHq"!L{wbE!>nG5g?|~PK-!8[Content_Types].xmlPK-!8!/_rels/.relsPK-!<D.drs/e2oDoc.xmlPK-!{!pdrs/downrev.xmlPK) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 133.2285826771652637 Td
+(@ABbCDEFQRUVW5%b@bShape 63"@PK![Content_Types].xml|N0HC+jS8 @:Q ??\\o<7p]VO\(I'6E=,) Tj
+T* (\){4>I\)q7UuD\)}nL"M&g0eSA\)2';2 WYu7{zqFrj9K*\(]mOlPK!Z,[_rels/.relslj0``t_P[>,dgzj?I'f#Pb-\\/0Z]nLnp__3.iJVKQBirL,V/74`ANar+m;E/<sBS1w>'3UAv83/PK!T9drs/downrev.xmlD0!T/dE\\phm9M7{97:M-:j]eY| Pp GX[&? M5L] bTPzR$nflkR) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 104.882125984251843 Td
+(pSE-B) Tj
+T* (mK\( |_~rtS?>+5OZ~ 7PK-![Content_Types].xmlPK-!Z,[_rels/.relsPK-!T9drs/downrev.xmlPKbB) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 76.5356692913385359 Td
+(S        ?c'tbebe<e\\QI^I567>*B*CJH*OJPJQJS*^JaJphq) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 48.1892125984251152 Td
+(rwh" Q^567>*B*CJH*OJPJQJS*^JaJphq) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 2368
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+(rwhoQ^567>*B*CJH*OJPJQJS*^JaJphq) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 785.1970866141732586 Td
+(rwh%Q^567>*B*CJH*OJPJQJS*^JaJphq) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 756.8506299212598378 Td
+(rwh" Q^567>*B*CJH*OJPJQJS*^JaJphq) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 728.5041732283464171 Td
+(rwhoQW^W567>*B*CJH*OJPJQJS*^JaJphq) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 700.15771653543311 Td
+(rwh%Q'^'567>*B*CJH*OJPJQJS*^JaJphq) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 671.8112598425196893 Td
+(rwh" Q^567>*B*CJH*OJPJQJS*^JaJphq) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 643.4648031496062686 Td
+(rwhoQ^567>*B*CJH*OJPJQJS*^JaJphq) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 615.1183464566928478 Td
+(rwh%<e]~hgj~8D-r&aC<"e?SQce@c@UnknownG.[x        Times New Roman5Symbol3..[x        ArialGSegoe UI Symbol7..{$        CalibriACambria Math"1h.. hh0WWBHP        $PQ0!xx#Azure DevOps Engineer - Template 14Hima Nitesh Telaproluword) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 586.7718897637794271 Td
+(Oh+'0         ) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 558.42543307086612 Td
+(@L) Tj
+T* (Xdlt|$Azure DevOps Engineer - Template 14Hima Nitesh TelaproluNormalword2Microsoft Office Word@@AE@AE) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 530.0789763779526993 Td
+(.+,D.+,Php|) Tj
+T* (.W$Azure DevOps Engineer - Template 14Title 8@_PID_HLINKSAL@\)http://www.linkedin.com/in/himanitesh009        ) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 501.7325196850393354 Td
+() Tj
+T* ( !"#$%&'\(\)+,-./013456789:;<=>?@ABCDEFGHIKLMNOPQSTUVWXY\\Root Entry        F5H^Data) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 473.3860629921259147 Td
+(*1Table28.WordDocument*RSummaryInformation\(JDocumentSummaryInformation8RCompObjr) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 445.0396062992125508 Td
+(        F Microsoft Word 97-2003 Document) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 416.69314960629913 Td
+(MSWordDocWord.Document.89q) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R ]
+/Count 4
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 11 0 R
+/F2 12 0 R
+/F3 13 0 R
+/F4 14 0 R
+/F5 15 0 R
+/F6 16 0 R
+/F7 17 0 R
+/F8 18 0 R
+/F9 19 0 R
+/F10 20 0 R
+/F11 21 0 R
+/F12 22 0 R
+/F13 23 0 R
+/F14 24 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+25 0 obj
+<<
+/Producer (jsPDF 2.4.0)
+/CreationDate (D:20250620113609+05'30')
+>>
+endobj
+26 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 27
+0000000000 65535 f 
+0000023558 00000 n 
+0000025398 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000010456 00000 n 
+0000010593 00000 n 
+0000014469 00000 n 
+0000014606 00000 n 
+0000020999 00000 n 
+0000021137 00000 n 
+0000023633 00000 n 
+0000023759 00000 n 
+0000023890 00000 n 
+0000024024 00000 n 
+0000024162 00000 n 
+0000024286 00000 n 
+0000024415 00000 n 
+0000024547 00000 n 
+0000024683 00000 n 
+0000024811 00000 n 
+0000024938 00000 n 
+0000025067 00000 n 
+0000025200 00000 n 
+0000025302 00000 n 
+0000025651 00000 n 
+0000025737 00000 n 
+trailer
+<<
+/Size 27
+/Root 26 0 R
+/Info 25 0 R
+/ID [ <98E8CC6CB832507F8840CFB1C73A6D7E> <98E8CC6CB832507F8840CFB1C73A6D7E> ]
+>>
+startxref
+25841
+%%EOF
